@@ -13,3 +13,4 @@ server.listen(port);
 //npm i json-server 
 //npm init -y
 //json-server db.json --watch
+//in package.json start:"node index.js" is mandatory command
