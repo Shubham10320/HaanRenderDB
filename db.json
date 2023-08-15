@@ -221,12 +221,28 @@
       "category": "case"
     }
   ],
+
+  
   "users":[
     {
       "id":1,
       "name":"shubham",
       "email":"shubham@gmail.com",
-      "password":123
+      "password":"1234"
+    }
+  ],
+
+
+  "cartData":[
+    {
+      "id": 1,
+      "img": "https://cdn.shopify.com/s/files/1/0511/9066/1293/products/044.jpg?v=1651510216",
+      "name": "Case & Lanyard Healing Chrysants",
+      "discounted_price": 460,
+      "price": 490,
+      "pack": 1,
+      "description": "Who needs hours of hunting for the perfect accessory when you have Healing Chrysants Nude Case + Lanyard to go with everything? No matter whether you feel like dressing up or keeping it casual, this feminine Lanyard + Case will give you that chic factor, while you keep your hands clean and virus-free with your HAAN Pocket. * (Hand Sanitizer Not Included)",
+      "category": "case"
     }
   ]
 
